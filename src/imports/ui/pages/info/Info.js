@@ -10,7 +10,7 @@ class Info extends React.Component {
           <meta name="description" content="description info page" />
         </Helmet>
 
-        <div>
+        <div className="container">
           <h1>Info page</h1>
         </div>
       </React.Fragment>

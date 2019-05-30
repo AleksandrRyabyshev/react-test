@@ -1,0 +1,17 @@
+body {
+  background-color: lightblue;
+}
+
+div.header {
+  margin-bottom: 2rem;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color: #212529;
+  //background-color: $brand-color;
+  color: white;
+}
+

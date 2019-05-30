@@ -1,11 +1,11 @@
 export const ROUTES = {
   AUTHENTICATED: {
-    HOME: '/ua/me',
+    HOME: '/ru/me',
   },
   SSR: {
-    HOME: '/ua',
-    INFO: '/ua/info',
-
+    HOME: '/ru',
+    INFO: '/ru/info',
+    LOGIN: '/ru/login',
   },
   ADMIN: {
     HOME: '/panel',
