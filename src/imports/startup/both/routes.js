@@ -10,6 +10,7 @@ const Routes = () => (
     <Route exact path={ROUTES.SSR.HOME} render={() => <Home />} />
     <Route exact path={ROUTES.SSR.INFO} render={() => <Info />} />
 
+
   </React.Fragment>
 );
 

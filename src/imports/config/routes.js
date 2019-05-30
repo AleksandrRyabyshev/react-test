@@ -5,6 +5,7 @@ export const ROUTES = {
   SSR: {
     HOME: '/ua',
     INFO: '/ua/info',
+
   },
   ADMIN: {
     HOME: '/panel',
